@@ -1,0 +1,49 @@
+country,state,city,brewery_type,n_stores
+United States,North Carolina,Ocracoke,brewpub,1
+United States,Colorado,Castle Rock,micro,1
+United States,Minnesota,Saint Paul,micro,1
+United States,Texas,Houston,micro,1
+United States,New York,Holland Patent,brewpub,1
+United States,California,Petaluma,closed,1
+United States,Colorado,Denver,proprietor,1
+United States,Oregon,John Day,brewpub,1
+United States,Indiana,Gary,micro,1
+United States,Delaware,Georgetown,micro,1
+United States,Arizona,Gilbert,micro,1
+United States,Nevada,Reno,micro,1
+United States,Pennsylvania,Coraopolis,micro,1
+United States,Washington,Kenmore,micro,1
+United States,Colorado,Louisville,brewpub,1
+United States,Oregon,Portland,brewpub,1
+United States,Ohio,Cincinnati,micro,1
+United States,Illinois,Assumption,micro,1
+United States,Arizona,Tucson,micro,1
+United States,Washington,Quilcene,brewpub,1
+United States,Colorado,Denver,large,1
+United States,New York,Williamsville,brewpub,1
+Ireland,Laois,Killeshin,micro,1
+United States,Wisconsin,Milwaukee,micro,1
+United States,Massachusetts,Abington,micro,1
+United States,South Carolina,Taylors,brewpub,1
+United States,North Carolina,Raleigh,micro,1
+United States,Oklahoma,Norman,micro,1
+United States,Idaho,Boise,large,1
+United States,Washington,Bellingham,closed,1
+United States,Iowa,Des Moines,micro,1
+United States,Oregon,Bend,large,3
+United States,California,Westlake Village,micro,1
+United States,Oregon,Portland,large,1
+United States,Mississippi,okolona,micro,1
+United States,Ohio,Mason,brewpub,1
+United States,California,San Diego,large,1
+United States,Maryland,Westminister,contract,1
+United States,Virginia,Spotsylvania,micro,1
+United States,Indiana,Knox,micro,1
+United States,Minnesota,Crosslake,micro,1
+United States,California,Mariposa,micro,1
+United States,Texas,Austin,micro,1
+United States,Indiana,Hammond,micro,1
+United States,Minnesota,Anoka,micro,1
+United States,Michigan,Jackson,micro,1
+United States,Vermont,Saint Albans,micro,1
+United States,Arizona,Mesa,micro,1
