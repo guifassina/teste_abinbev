@@ -1,0 +1,17 @@
+CONSIDERAÇÕES
+O projeto foi construído utilizando as seguintes ferramentas:
+	- Sistema Operacional: Linux Ubuntu
+	- Orquestrador: Apache Airflow
+	- Scripts: Python para extração dos dados da API e PySpark para tratamendo e refinamento dos dados.
+	- IDE: VSCode
+
+INSTRUÇÕES
+1- Descompactar o pacote teste_ABInBev.zip na pasta /Documents.
+2- Deletar os diretórios Bronze, Silver e Gold do diretório datalake.
+3- Importar o arquivo dag_pipeline.py para o diretório dags do Airflow.
+4- Com o Airflow aberto executar a dag "teste_ambinbev_dag".
+5- Os diretórios Bronze, Silver e Gold serão criados dentro do diretório datalake, onde:
+	- datalake/Bronze irá conter um arquivo json (list_breweries.json) com os dados brutos da API (https://www.openbrewerydb.org/)
+	- datalake/Silver irá conter os arquivos com os dados transformados em formato colunar, particionado por localização, em arquivo parquet.
+	- datalake/Gold irã conter um arquivo em csv com a visão da quantidade de lojas agrupadas por localização e tipo.
+
